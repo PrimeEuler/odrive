@@ -2,7 +2,7 @@
   "name": "odrive",
   "description": "Odrive object marshalling via the Fibre protocol",
   "author": "Jeremy Ebert",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
         "@primeeuler/fibre": "^0.0.2",
         "int64-buffer": "^0.99.1007"
