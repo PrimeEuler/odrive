@@ -4,7 +4,7 @@
   "author": "Jeremy Ebert",
   "version": "0.0.2",
   "dependencies": {
-        "@primeeuler/fibre": "^0.0.1",
+        "@primeeuler/fibre": "^0.0.2",
         "int64-buffer": "^0.99.1007"
     },
     "repository": {
